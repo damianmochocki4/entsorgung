@@ -10,4 +10,4 @@
 - Kosten Beprobung - column "K",
 - Tonnage - column "G",
 - Angebot Preis/t - column "M".
-5. Datum (Version) is populated with the current date of execution.
+6. Datum (Version) is populated with the current date of execution.

@@ -1,6 +1,6 @@
 1. Input worksheet has to be in the first position on the left.
 2. Output is created in the script's directory, with the naming format "LATUS_enviaTEL_ERZ_Reporting_Entsorgungen_Tabelle_für_PBI_{DDMMYYYY}.xlsx".
-3. The first row with data in the input file has to start from row 7.
+3. The script begins execution from row 7 in the input file.
 4. Whenever there is a value in column D other than "Gesamt", it copies values from that row to the output from columns:
 - Kategoriegruppe - "B" (variable is reassigned whenever there is a change),
 - Lagerplatz - column "D",

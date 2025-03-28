@@ -2,7 +2,7 @@
 2. Input worksheet has to be in the first position on the left.
 3. The script begins execution from row 7 in the input file.
 4. Whenever there is a value in column D other than "Gesamt", it copies values from that row to the output from columns:
-- Kategoriegruppe - column "B" (variable is reassigned if a change occurs),
+- Kategoriegruppe - column "B" (variable is reassigned if there is a change in value),
 - Lagerplatz - column "D",
 - Haufwerk - column "E",
 - Ergebnis Beprobung - column "I",
